@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "blog_image": "https://i.ibb.co.com/VTDNptt/14803715-Vector-2646.jpg",
+    "writer_image": "https://i.ibb.co.com/x6HXBHj/people2.png",
+    "writer_name": "John Doe",
+    "writing_date": "2024-12-01",
+    "reading_time": "5 minutes",
+    "title": "The Future of AI in Everyday Life",
+    "level": "Beginner",
+    "category": "Technology"
+  },
+  {
+    "id": 2,
+    "blog_image": "https://i.ibb.co.com/rQXJMQW/science-6566158-1280.png",
+    "writer_image": "https://i.ibb.co.com/H4gXyQb/people1.png",
+    "writer_name": "Jane Smith",
+    "writing_date": "2024-12-02",
+    "reading_time": "8 minutes",
+    "title": "Exploring Quantum Computing: A Beginner's Guide",
+    "level": "Beginner",
+    "category": "Science"
+  },
+  {
+    "id": 3,
+    "blog_image": "https://i.ibb.co.com/X8FBz6f/image1.jpg",
+    "writer_image": "https://i.ibb.co.com/WVkBnQp/people3.png",
+    "writer_name": "Emily Clark",
+    "writing_date": "2024-12-03",
+    "reading_time": "6 minutes",
+    "title": "How Virtual Reality is Changing Education",
+    "level": "Intermediate",
+    "category": "Education"
+  },
+  {
+    "id": 4,
+    "blog_image": "https://i.ibb.co.com/Xz3J6Dr/cathryn-lavery-f-MD-Cru6-OTk-unsplash.jpg",
+    "writer_image": "https://i.ibb.co.com/8K1MQLs/profile.png",
+    "writer_name": "Michael Johnson",
+    "writing_date": "2024-12-04",
+    "reading_time": "7 minutes",
+    "title": "Top 10 Tips for Remote Work Success",
+    "level": "Intermediate",
+    "category": "Business"
+  },
+  {
+    "id": 5,
+    "blog_image": "https://example.com/blog-image5.jpg",
+    "writer_image": "https://example.com/writer-image5.jpg",
+    "writer_name": "Sara Davis",
+    "writing_date": "2024-12-05",
+    "reading_time": "4 minutes",
+    "title": "The Rise of Sustainable Fashion",
+    "level": "Intermediate",
+    "category": "Fashion"
+  },
+  {
+    "id": 6,
+    "blog_image": "https://example.com/blog-image6.jpg",
+    "writer_image": "https://example.com/writer-image6.jpg",
+    "writer_name": "David Wilson",
+    "writing_date": "2024-12-06",
+    "reading_time": "9 minutes",
+    "title": "A Comprehensive Guide to Digital Marketing in 2024",
+    "level": "Advanced",
+    "category": "Marketing"
+  },
+  {
+    "id": 7,
+    "blog_image": "https://i.ibb.co.com/YdFTzpF/myriam-zilles-Klto-LK6-Mk-g-unsplash.jpg",
+    "writer_image": "https://example.com/writer-image7.jpg",
+    "writer_name": "Olivia Martin",
+    "writing_date": "2024-12-07",
+    "reading_time": "6 minutes",
+    "title": "The Role of AI in Healthcare",
+    "level": "Advanced",
+    "category": "Healthcare"
+  },
+  {
+    "id": 8,
+    "blog_image": "https://example.com/blog-image8.jpg",
+    "writer_image": "https://example.com/writer-image8.jpg",
+    "writer_name": "Ethan Scott",
+    "writing_date": "2024-12-08",
+    "reading_time": "10 minutes",
+    "title": "How to Build a Personal Brand Online",
+    "level": "Intermediate",
+    "category": "Personal Development"
+  },
+  {
+    "id": 9,
+    "blog_image": "https://example.com/blog-image9.jpg",
+    "writer_image": "https://example.com/writer-image9.jpg",
+    "writer_name": "Ava Taylor",
+    "writing_date": "2024-12-09",
+    "reading_time": "5 minutes",
+    "title": "The Benefits of Mindfulness Meditation",
+    "level": "Beginner",
+    "category": "Health"
+  },
+  {
+    "id": 10,
+    "blog_image": "https://example.com/blog-image10.jpg",
+    "writer_image": "https://example.com/writer-image10.jpg",
+    "writer_name": "James Lee",
+    "writing_date": "2024-12-10",
+    "reading_time": "8 minutes",
+    "title": "The Future of E-Commerce: Trends to Watch",
+    "level": "Advanced",
+    "category": "Business"
+  }
+]
